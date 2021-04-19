@@ -15,5 +15,6 @@ namespace GenericMediatr.Models
         public string IfgName { get; set; }
 
         public string Factory { get; set; }
+        public string MachineName { get; set; }
     }
 }
